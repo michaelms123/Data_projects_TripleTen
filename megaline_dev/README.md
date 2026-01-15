@@ -1,4 +1,8 @@
 # Megaline User's Plan Probability #
+**Link to original repo including datasets and .venv is here: https://github.com/michaelms123/megaline_model_dev**
+
+**Link to Jupyter Notebook: https://github.com/michaelms123/megaline_model_dev/blob/main/into_to_ml_project.ipynb**
+
 Megaline (mobile carrier) want's to better understand subscriber behaviour/recommend the most suitable plan: Smart/Ultra
 
 In this project develop a **classification model** to predict subsriber's plan based on monthly behaviour. Goal is to achieve accuracy above 0.75 while also evaluating metrics like F1 score and ROC-AUC to ensure reliable predictions:
@@ -38,3 +42,4 @@ In this project develop a **classification model** to predict subsriber's plan b
 
 
    
+
