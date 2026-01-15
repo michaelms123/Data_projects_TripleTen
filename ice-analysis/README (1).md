@@ -1,5 +1,7 @@
 # Video Game Sales Analysis - Ice Online Store: #
 **Link to original repo with datasets and .venv is here: https://github.com/michaelms123/ICE-sales-analysis**
+
+**Link to Jupyter Notebook: https://github.com/michaelms123/ICE-sales-analysis/blob/main/Integrated%20Project_%20Ice%20Analysis%20%20(2).ipynb**
 ## Project Overview: ##
 This project analyzes historical video game sales and reviews to identify patterns that determine a game's commercial success. The goal is to provide actionable insights for the online store Ice to plan marketing campaigns and focus on potentially profitable games and platforms for the upcoming year (2017).
 
