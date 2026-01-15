@@ -1,1 +1,0 @@
-# gold-ore-extraction-optimisation
