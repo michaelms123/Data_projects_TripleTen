@@ -1,5 +1,6 @@
 # Gold Recovery Prediction from Ore Processing: 
 **Link to full repository with all datasets and .venv included: https://github.com/michaelms123/gold-ore-recovery**
+
 **Link to Jupyter Notebook: https://github.com/michaelms123/gold-ore-recovery/blob/main/gold_ore_pj.ipynb**
 ## Project Overview: ##
 This project focuses on predicting gold recovery rates at different stages of an industrial gold extraction process using machine learning.
